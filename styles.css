@@ -143,3 +143,11 @@ a {
         margin-bottom: 20px;
     }
 }
+
+.profile-picture {
+    width: 120px; /* Smaller size */
+    height: 120px; /* Ensure it's proportional */
+    border-radius: 50%; /* Makes the image circular */
+    object-fit: cover; /* Ensures the image fits within the circle */
+    border: 2px solid #ccc; /* Optional: Adds a subtle border for aesthetics */
+}
