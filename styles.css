@@ -151,3 +151,9 @@ a {
     object-fit: cover; /* Ensures the image fits within the circle */
     border: 2px solid #ccc; /* Optional: Adds a subtle border for aesthetics */
 }
+
+/* adding fancy blockquote */
+
+blockquote {font-style: italic;}
+blockquote:before {content: '“'; float:left;}
+blockquote:after  {content: '”'; float:right;}
