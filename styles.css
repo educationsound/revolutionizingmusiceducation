@@ -125,3 +125,21 @@ i {
 
 a {
     text-decoration: none;
+}
+
+.profile-picture:hover {
+    border-color: #0077b5; /* Change border color on hover */
+    transform: scale(1.05); /* Slight zoom effect */
+    transition: all 0.3s ease;
+}
+
+@media (max-width: 768px) {
+    .author-section {
+        flex-direction: column; /* Stack image and text vertically */
+        text-align: center;
+    }
+
+    .profile-picture {
+        margin-bottom: 20px;
+    }
+}
