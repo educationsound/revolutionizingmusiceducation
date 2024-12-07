@@ -163,5 +163,5 @@ blockquote {
 }
 
 blockquote {font-style: italic;}
-blockquote:before {content: '“'; float:left;}
-blockquote:after  {content: '”'; float:right;}
+blockquote:before {content: '“'; }
+blockquote:after  {content: '”'; }
