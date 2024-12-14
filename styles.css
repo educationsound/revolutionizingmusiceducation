@@ -162,6 +162,11 @@ blockquote {
     border-left: 4px solid #2a8dc2;
 }
 
+.headerquote {
+    font-style: italic;
+    color: hsl(0, 96%, 54%);
+}
+
 blockquote {font-style: italic;}
 blockquote:before {content: '“'; }
 blockquote:after  {content: '”'; }
