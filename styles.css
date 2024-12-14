@@ -198,6 +198,6 @@ blockquote:after  {content: '”'; }
 }
 
 .nav-link:hover {
-    color: #00ffcc; /* Change link color */
-    text-shadow: 0 0 8px #00ffcc, 0 0 12px #00ffcc; /* Add glowing text shadow */
+    color: #00ffcc !important; /* Change link color */
+    text-shadow: 0 0 8px #00ffcc, 0 0 12px #00ffcc !important; /* Add glowing text shadow */
 }
