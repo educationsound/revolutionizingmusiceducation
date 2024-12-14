@@ -163,9 +163,9 @@ blockquote {
 }
 
 .headerquote {
-    font-style: italic;
-    color: hsl(0, 96%, 54%);
+    color: #f6ff00d4 !important;
 }
+
 
 blockquote {font-style: italic;}
 blockquote:before {content: '“'; }
