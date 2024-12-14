@@ -156,15 +156,15 @@ a {
 
 blockquote {
     font-style: italic;
-    color: hsl(65, 77%, 62%);
+    color: hsl(63, 17%, 20%);
     margin: 10px 0;
     padding-left: 20px;
     border-left: 4px solid #2a8dc2;
 }
 
-blockquote.headerquote {
-    color: #FF5733;
-}
+/* blockquote.headerquote {
+    color: #ff3333;
+} */
 
 
 .headerquote {
