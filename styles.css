@@ -162,6 +162,11 @@ blockquote {
     border-left: 4px solid #2a8dc2;
 }
 
+blockquote.headerquote {
+    color: #FF5733;
+}
+
+
 .headerquote {
     color: #f6ff00d4 !important;
 }
